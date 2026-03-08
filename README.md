@@ -1,4 +1,4 @@
-Hi there, I'm [Your Name/Handle] 🏴‍☠️
+Hi there, I'm Denis 
 
 Full-Stack Developer | Magento 2 & Laravel Specialist | Data-Driven
 
@@ -14,7 +14,7 @@ Data & Analytics: BigQuery, Looker
 
 Current Focus: Building scalable SaaS architectures and custom e-commerce modules.
 
-🚀 In The Wild (Featured Projects)
+🚀 In The Wild
 
 While most of my core enterprise work lives in private repositories, here is what I am currently building and scaling:
 
