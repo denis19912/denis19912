@@ -30,6 +30,7 @@ When I'm not writing code, I'm pushing physical limits offline. I train as a hyb
 
 I firmly believe that the discipline, consistency, and grit required to lift a 50kg sandbag or push through a muddy trail translate directly into writing resilient, high-quality code. Building software, like building a body, requires a full Range of Motion and zero shortcuts.
 
+<!--
 Track the progress:
 
 💼 LinkedIn (Add your link)
